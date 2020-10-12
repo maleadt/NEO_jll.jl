@@ -1,0 +1,10 @@
+[[NEO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fede78d89a0c1d2007afd3f72f610aebed9cb429"
+libc = "glibc"
+os = "linux"
+
+    [[NEO.download]]
+    sha256 = "de2e3370351668b6704a37f26f7bdcf02d3a141130476d1a683eaa392f2f447a"
+    url = "https://github.com/maleadt/NEO_jll.jl/releases/download/NEO-v20.39.17972+1/NEO.v20.39.17972.x86_64-linux-gnu-cxx11.tar.gz"

@@ -1,10 +1,20 @@
 [[NEO]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "fede78d89a0c1d2007afd3f72f610aebed9cb429"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "26d81ed9cd0331fdf0a3a5cd69ed09d3686a54ac"
 libc = "glibc"
 os = "linux"
 
     [[NEO.download]]
-    sha256 = "de2e3370351668b6704a37f26f7bdcf02d3a141130476d1a683eaa392f2f447a"
-    url = "https://github.com/maleadt/NEO_jll.jl/releases/download/NEO-v20.39.17972+1/NEO.v20.39.17972.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "7f96475b68d189a5260977f78fac5140981b8afde77417731aac1a8d83367ad1"
+    url = "https://github.com/maleadt/NEO_jll.jl/releases/download/NEO-v20.44.18297+1/NEO.v20.44.18297.x86_64-linux-gnu-cxx03.tar.gz"
+[[NEO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e5fb576c724eb143928783a91196f439b7b154fc"
+libc = "glibc"
+os = "linux"
+
+    [[NEO.download]]
+    sha256 = "40cb5d43d0e719595f36d71cf4e28096f052a6043b6b6df286fbd38bc265cfd5"
+    url = "https://github.com/maleadt/NEO_jll.jl/releases/download/NEO-v20.44.18297+1/NEO.v20.44.18297.x86_64-linux-gnu-cxx11.tar.gz"

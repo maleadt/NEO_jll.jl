@@ -11,10 +11,10 @@ os = "linux"
 [[NEO]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e5fb576c724eb143928783a91196f439b7b154fc"
+git-tree-sha1 = "f979f9b926992cc124f913070ff19f967d825d9a"
 libc = "glibc"
 os = "linux"
 
     [[NEO.download]]
-    sha256 = "40cb5d43d0e719595f36d71cf4e28096f052a6043b6b6df286fbd38bc265cfd5"
-    url = "https://github.com/maleadt/NEO_jll.jl/releases/download/NEO-v20.44.18297+1/NEO.v20.44.18297.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "6b985ef301026f0bc9766ce804ac91f1d41e339e5f184edc997c76d042d55802"
+    url = "https://github.com/maleadt/NEO_jll.jl/releases/download/NEO-v21.12.19358+1/NEO.v21.12.19358.x86_64-linux-gnu-cxx11.tar.gz"

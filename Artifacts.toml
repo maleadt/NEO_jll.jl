@@ -1,0 +1,12 @@
+[[NEO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+debug = "true"
+git-tree-sha1 = "801ff435b56d9f1c63102bf0d5e67b93fd1223ce"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[NEO.download]]
+    sha256 = "e6d3bb5ad4c11cb7ab19dcdb2ca1206784fa46029cff2987a0ca05a0a5eca977"
+    url = "https://github.com/maleadt/NEO_jll.jl/releases/download/NEO-v22.53.25593+2/NEO.v22.53.25593.x86_64-linux-gnu-cxx11-debug+true.tar.gz"
